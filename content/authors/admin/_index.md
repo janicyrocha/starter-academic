@@ -27,15 +27,15 @@ organizations:
     url: http://www.unirio.br
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doutora em Ciência da Informação
+      institution: Universidade Federal de Minas Gerais
+      year: 2018
+    - course: Mestra em Ciência da Informação
+      institution: Universidade Federal de Minas Gerais
+      year: 2013
+    - course: Bacharela em Sistemas de Informação
+      institution: Pontifícia Universidade Católica de Minas Gerais
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
