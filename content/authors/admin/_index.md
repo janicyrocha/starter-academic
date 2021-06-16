@@ -4,10 +4,15 @@ role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Serviços de informação inclusivos e adaptáveis
   - Acessibilidade digital
-  - Aspectos sociais do uso da tecnologia.
+  - Aspectos sociais do uso da tecnologia
+  - Serviços de informação inclusivos e adaptáveis.
 social:
+  - display:
+      header: false
+    icon_pack: ai
+    icon: lattes
+    link: http://lattes.cnpq.br/6000538568017243
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=gvTo1k8AAAAJ&hl=pt-BR&authuser=1
@@ -42,10 +47,10 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), onde coordena o Projeto de Tutoria Especial intitulado 'Centro de Tutoria Pedagógica. Integrante o Núcleo de Acessibilidade da UNIRIO.
+Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
+
+Integrante o Núcleo de Acessibilidade da UNIRIO.
 
 <!--EndFragment-->
-
-
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
