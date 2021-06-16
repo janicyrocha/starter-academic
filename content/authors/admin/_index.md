@@ -12,16 +12,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/janicyrocha
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.br/citations?user=gvTo1k8AAAAJ&hl=pt-BR&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/janicyrocha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/janicyrocha/
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
