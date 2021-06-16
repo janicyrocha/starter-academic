@@ -3,7 +3,7 @@ widget: about
 widget_id: Sobre mim
 headless: true
 weight: 20
-title: Biografia.
+title: ""
 active: true
 author: admin
 ---
