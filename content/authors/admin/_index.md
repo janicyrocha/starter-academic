@@ -4,8 +4,7 @@ role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Planejamento
-  - projeto e avaliação de serviços de informação inclusivos e adaptáveis.
+  - Serviços de informação inclusivos e adaptáveis. Acessibilidade digital.
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -45,4 +44,4 @@ Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da U
 
 <!--EndFragment-->.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
