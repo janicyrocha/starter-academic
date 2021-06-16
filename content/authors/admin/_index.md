@@ -7,21 +7,20 @@ interests:
   - Planejamento
   - projeto e avaliação de serviços de informação inclusivos e adaptáveis.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/janicyrocha
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=gvTo1k8AAAAJ&hl=pt-BR&authuser=1
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/janicyrocha
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9279-8010
+    icon_pack: ai
+    icon: orcid
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/janicyrocha/
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
