@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experiência
+title: 'Experiência'
 subtitle:
 
 # Date format for experience
@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: 'Rio de Janeiro'
-    date_start: '2019-05 - Atual'
+    date_start: '05/2019 - Atual'
     date_end: ''
     description: '
         Atribuições:
@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: 'Sabará'
-    date_start: '2017-07'
-    date_end: '2018-01'
+    date_start: '07/2017'
+    date_end: '01/2018'
     description: 'Ensino: Bacharelado em Sistemas de Informação; Técnico Integrado em Administração.'
 
 design:
