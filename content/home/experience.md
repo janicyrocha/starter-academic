@@ -22,27 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professora
-    company: Universidade Federal do Estado do Rio de Janeiro
+  - title: 'Professora'
+    company: 'Universidade Federal do Estado do Rio de Janeiro'
     company_url: ''
     company_logo: ''
-    location: Rio de Janeiro
-    date_start: '2019-05'
+    location: 'Rio de Janeiro'
+    date_start: '2019-05 - Atual'
     date_end: ''
-    description: |2-
+    description: '
         Atribuições:
         * Ensino
         * Pesquisa
-        * Extensão
+        * Extensão'
         
-  - title: Professora
-    company: Instituto Federal Minas Gerais
+  - title: 'Professora'
+    company: 'Instituto Federal Minas Gerais'
     company_url: ''
     company_logo: ''
-    location: Sabará
+    location: 'Sabará'
     date_start: '2017-07'
     date_end: '2018-01'
-    description: Ensino: Bacharelado em Sistemas de Informação; Técnico Integrado em Administração.
+    description: 'Ensino: Bacharelado em Sistemas de Informação; Técnico Integrado em Administração.'
 
 design:
   columns: '2'
