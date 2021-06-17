@@ -25,7 +25,7 @@ experience:
   - title: Professora
     company: Universidade Federal do Estado do Rio de Janeiro
     company_url: ''
-   # company_logo: org-gc
+    company_logo: ''
     location: Rio de Janeiro
     date_start: '2019-05'
     date_end: ''
@@ -35,14 +35,14 @@ experience:
         * Pesquisa
         * Extensão
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Professora
+    company: Instituto Federal Minas Gerais
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Sabará
+    date_start: '2017-07'
+    date_end: '2018-01'
+    description: Ensino: Bacharelado em Sistemas de Informação; Técnico Integrado em Administração.
 
 design:
   columns: '2'
