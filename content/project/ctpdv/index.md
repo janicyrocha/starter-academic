@@ -8,10 +8,10 @@ tags:
   - Deficiência Visual
   - Inclusão
   - Tutoria
-external_link: "''"
+external_link: ""
 image:
   caption: ""
-  focal_point: BOTTOMLEFT
+  focal_point: Smart
 slides: ctpdv
 ---
 
