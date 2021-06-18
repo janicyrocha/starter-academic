@@ -1,7 +1,7 @@
 ---
 title: Centro de Tutoria Pedagógica - Deficiência Visual
-date: "2016/04/27"
-summary: Bolsistas e voluntários: Bruno Rocha; Ana Azevedo; João Peçanha; Sara Soares
+date: "2016-04-27T00:00:00Z"
+summary: Bolsistas e voluntários Bruno Rocha; Ana Azevedo; João Peçanha; Sara Soares.
 tags:
   - Acessibilidade
   - Anticapacitismo
