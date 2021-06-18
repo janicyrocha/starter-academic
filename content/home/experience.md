@@ -9,12 +9,8 @@ experience:
     location: California
     date_start: 2021-01-01
     date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Ensino | Extensão | Gestão | Pesquisa.
+    
   - title: Professora
     company: Instituto de Gestão e Tecnologia da Informação (IGTI)
     company_url: ""
@@ -22,7 +18,8 @@ experience:
     location: California
     date_start: 2016-01-01
     date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Ensino: MBA em Design de Interação.
+    
 widget_id: Atuação profissional
 headless: true
 weight: 40
