@@ -28,5 +28,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    color: ""
+    color: "#85aae1"
 ---
