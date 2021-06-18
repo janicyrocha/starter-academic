@@ -33,4 +33,4 @@ url_video: ""
 slides: ctpdv
 ---
 
-....
+O projeto tem como objetivo auxiliar estudantes com deficiência visual no enfrentamento de barreiras atitudinais e comunicacionais encontradas no cotidiano acadêmico, especialmente naquelas relacionadas à adaptação/produção de material acadêmico acessível e sua consequente disponibilização. Adicionalmente, objetiva promover discussões emancipatórias sobre formas anticapacitistas de se vivenciar a universidade em suas diferentes vertentes: ensino, pesquisa e extensão.
