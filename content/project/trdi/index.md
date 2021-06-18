@@ -1,5 +1,5 @@
 ---
-title: Técnicas de Recuperação e Disseminação da Informação - produção e seleção de recursos educacionais para o ensino.
+title: TRDI - produção e seleção de recursos educacionais para o ensino.
 date: "2016-04-27T00:00:00Z"
 summary: Bolsista - Laura Moreira.
 tags:
@@ -14,4 +14,4 @@ image:
 slides: trdi
 ---
 
-O projeto tem como objetivo desenvolver estratégias pedagógicas para inclusão e retenção dos diferentes perfis discentes na disciplina de TRDI, quando em modalidade remota, considerando o alinhamento de constructos teóricos e práticos das áreas de recuperação e disseminação da informação.
+O projeto tem como objetivo desenvolver estratégias pedagógicas para inclusão e retenção dos diferentes perfis discentes na disciplina de Técnicas de Recuperação e Disseminação da Informação (TRDI) considerando o alinhamento de constructos teóricos e práticos das áreas de recuperação e disseminação da informação.
