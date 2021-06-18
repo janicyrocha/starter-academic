@@ -28,5 +28,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    color: rgba(208, 27, 88, 0.04)
+    color: ""
 ---
