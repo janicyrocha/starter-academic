@@ -2,8 +2,8 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Professora
+    company: Universidade Federal do Estado do Rio de Janeiro
     company_url: ""
     company_logo: org-gc
     location: California
@@ -15,8 +15,8 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Professora
+    company: Instituto de Gestão e Tecnologia da Informação
     company_url: ""
     company_logo: org-x
     location: California
