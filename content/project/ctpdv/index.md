@@ -7,7 +7,7 @@ tags:
   - Anticapacitismo
   - Deficiência Visual
   - Inclusão
-  - Tutoria
+  - Tutoria 
 external_link: ""
 image:
   caption: ""
