@@ -14,7 +14,7 @@ external_link: ''
 
 image:
   caption: ''
-  focal_point: Topleft
+  focal_point: Right
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
