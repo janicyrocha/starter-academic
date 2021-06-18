@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Professora
-    company: Universidade Federal do Estado do Rio de Janeiro
+    company: Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
     company_url: ""
     company_logo: org-gc
     location: California
@@ -16,7 +16,7 @@ experience:
         * Modelling
         * Deploying
   - title: Professora
-    company: Instituto de Gestão e Tecnologia da Informação
+    company: Instituto de Gestão e Tecnologia da Informação (IGTI)
     company_url: ""
     company_logo: org-x
     location: California
