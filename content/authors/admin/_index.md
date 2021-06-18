@@ -44,7 +44,8 @@ education:
 email: ""
 superuser: true
 highlight_name: false
-background:
+design:
+  background:
     color: "#e9c6c6"
 ---
 <!--StartFragment-->
