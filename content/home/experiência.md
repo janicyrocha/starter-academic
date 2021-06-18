@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: experiência
+widget_id: Experiência
 headless: true
 weight: 10
 active: true
