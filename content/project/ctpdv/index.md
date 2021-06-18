@@ -3,10 +3,13 @@ title: Centro de Tutoria Pedagógica - Deficiência Visual
 summary:
 tags:
 - Acessibilidade
+- Anticapacitismo
+- Deficiência Visual
+- Inclusão
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: project/ctpdv
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
