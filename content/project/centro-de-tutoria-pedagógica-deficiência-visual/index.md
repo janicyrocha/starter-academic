@@ -1,5 +1,5 @@
 ---
-title: Centro de Tutoria Pedagógica - Deficiência Visual
+title: ctpdv
 subtitle: ""
 date: 2021-06-18T20:49:57.799Z
 draft: false
@@ -11,7 +11,7 @@ tags:
   - Inclusão.
 categories:
   - Tutoria
-external_link: '""'
+external_link: https://janicyrocha.netlify.app/project/example/
 image:
   filename: featured
   focal_point: Smart
