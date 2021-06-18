@@ -29,11 +29,7 @@ experience:
     location: 'Rio de Janeiro'
     date_start: '05/2019 - Atual'
     date_end: ''
-    description: '
-        Atribuições:
-        * Ensino
-        * Pesquisa
-        * Extensão'
+    description: ''
         
   - title: 'Professora'
     company: 'Instituto Federal Minas Gerais'
