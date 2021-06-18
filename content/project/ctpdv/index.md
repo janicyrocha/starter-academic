@@ -1,6 +1,6 @@
 ---
 title: Centro de Tutoria Pedagógica - Deficiência Visual
-date: 2016-04-27T00:00:00Z
+date: 2016/04/27
 summary: null
 tags:
   - Acessibilidade
