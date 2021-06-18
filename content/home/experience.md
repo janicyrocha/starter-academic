@@ -9,7 +9,7 @@ experience:
     location: California
     date_start: 2021-01-01
     date_end: ""
-    description: Ensino | Extensão | Gestão | Pesquisa.
+    description: Ensino Extensão Gestão Pesquisa.
     
   - title: Professora
     company: Instituto de Gestão e Tecnologia da Informação (IGTI)
@@ -18,7 +18,7 @@ experience:
     location: California
     date_start: 2016-01-01
     date_end: 2020-12-31
-    description: Ensino: MBA em Design de Interação.
+    description: Ensino MBA em Design de Interação.
     
 widget_id: Atuação profissional
 headless: true
