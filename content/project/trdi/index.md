@@ -13,5 +13,4 @@ image:
   focal_point: Smart
 slides: trdi
 ---
-
 O projeto tem como objetivo desenvolver estratégias pedagógicas para inclusão e retenção dos diferentes perfis discentes na disciplina de TRDI, quando em modalidade remota, considerando o alinhamento de constructos teóricos e práticos das áreas de recuperação e disseminação da informação.
