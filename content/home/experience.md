@@ -7,7 +7,7 @@ experience:
     company_url: ""
     company_logo: org-gc
     location: California
-    date_start: 2021-01-01
+    date_start: 2019-05-15
     date_end: ""
     description: Ensino | Extensão | Gestão | Pesquisa.
     
@@ -16,9 +16,9 @@ experience:
     company_url: ""
     company_logo: org-x
     location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Ensino MBA em Design de Interação.
+    date_start: 2018-10-01
+    date_end: 2019-05-01
+    description: Ensino (MBA em Design de Interação).
     
 widget_id: Atuação profissional
 headless: true
