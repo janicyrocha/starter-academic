@@ -1,26 +1,17 @@
 ---
 title: Centro de Tutoria Pedagógica - Deficiência Visual
-summary:
+date: 2016-04-27T00:00:00Z
+summary: null
 tags:
-- Acessibilidade
-- Anticapacitismo
-- Deficiência Visual
-- Inclusão
-- Tutoria
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+  - Acessibilidade
+  - Anticapacitismo
+  - Deficiência Visual
+  - Inclusão
+  - Tutoria
+external_link: "''"
 image:
-  caption: ''
-  focal_point: Right
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+  caption: ""
+  focal_point: BOTTOMLEFT
 slides: ctpdv
 ---
 
