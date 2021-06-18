@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiência
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: UNIRIO
-    company: GenCoin
+  - title: Professora
+    company: Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
     company_url: ''
     company_logo: org-gc
     location: California
@@ -36,14 +36,24 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Professora
+    company: Instituto de Gestão e Tecnologia da Informação (IGTI)
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Professora
+    company: Instituto Federal de Minas Gerais (IFMG)
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'
