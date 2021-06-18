@@ -7,7 +7,7 @@ tags:
   - Acessibilidade
   - Anticapacitismo
   - Inclusão.
-external_link: a
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
