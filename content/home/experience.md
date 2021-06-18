@@ -9,7 +9,7 @@ experience:
     location: California
     date_start: 2021-01-01
     date_end: ""
-    description: Ensino Extensão Gestão Pesquisa.
+    description: Ensino | Extensão | Gestão | Pesquisa.
     
   - title: Professora
     company: Instituto de Gestão e Tecnologia da Informação (IGTI)
