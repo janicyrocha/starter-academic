@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Rio de Janeiro
-    date_start: '2019-05-15'
+    date_start: ''
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,9 +41,9 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Belo Horizonte
-    date_start: '2018-10-01'
-    date_end: '2019-05-01'
-    description: Ensino: MBA em Design de Interação
+    date_start: ''
+    date_end: ''
+    description: Ensino - MBA em Design de Interação
 
 design:
   columns: '2'
