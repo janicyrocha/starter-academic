@@ -54,3 +54,5 @@ Integrante o Núcleo de Acessibilidade da UNIRIO.
 <!--EndFragment-->
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+  background:
+    color: "#e9c6c6"
