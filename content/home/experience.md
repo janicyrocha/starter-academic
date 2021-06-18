@@ -3,11 +3,11 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Professora
-    company: GenCoin
+    company: Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
     company_url: ""
     company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+    location: Rio de Janeiro
+    date_start: 05/2019
     date_end: ""
     description: |-2
         Responsibilities include:
