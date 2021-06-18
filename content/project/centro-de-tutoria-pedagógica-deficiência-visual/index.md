@@ -8,6 +8,8 @@ tags:
   - Acessibilidade
   - Anticapacitismo
   - Inclusão.
+categories:
+  - Tutoria
 external_link: '""'
 image:
   filename: featured
