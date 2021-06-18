@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Rio de Janeiro
-    date_start: '2019-15-05'
+    date_start: '2019-05-15'
     date_end: ''
     description: |2-
         Responsibilities include:
