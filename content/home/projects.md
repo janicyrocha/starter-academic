@@ -17,6 +17,8 @@ content:
       tag: Ensino
     - name: Tutoria
       tag: Tutoria
+    - name: Outros
+      tag: Demo
 design:
   columns: "2"
   view: 2
