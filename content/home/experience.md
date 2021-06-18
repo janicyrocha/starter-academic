@@ -15,7 +15,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-  - title: Professor of Semiconductor Physics
+  - title: Professora
     company: University X
     company_url: ""
     company_logo: org-x
