@@ -1,6 +1,6 @@
 ---
 widget: experience
-date_format: Jan-02-06
+date_format: 01/2006
 experience:
   - title: Professora
     company: Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
