@@ -10,7 +10,7 @@ content:
   filter_default: 0
   filter_button:
     - name: Todos
-      tag: "*"
+      tag: ""
     - name: Pesquisa
       tag: Pesquisa
     - name: Ensino
