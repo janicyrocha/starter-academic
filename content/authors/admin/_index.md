@@ -27,6 +27,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    link: https://figshare.com/authors/Janicy_Rocha/9212528
+    icon_pack: ai
+    icon: figshare
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
@@ -47,11 +52,10 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
+Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO, onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
 
 Integrante o Núcleo de Acessibilidade da UNIRIO.
 
 <!--EndFragment-->
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
-
