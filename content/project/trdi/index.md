@@ -1,9 +1,12 @@
 ---
 slides: trdi
 title: TRDI - produção e seleção de recursos educacionais para o ensino
-subtitle: 2020 - Atual
+subtitle: ""
 date: 2016-04-27T00:00:00.000Z
-summary: Bolsista - Laura Moreira.
+summary: |-
+  2020 - Atual
+
+  Bolsista - Laura Moreira.
 tags:
   - Recuperação da Informação
   - Disseminação da Informação
