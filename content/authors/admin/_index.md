@@ -21,17 +21,17 @@ social:
     link: https://orcid.org/0000-0001-9279-8010
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://figshare.com/authors/Janicy_Rocha/9212528
+    icon_pack: ai
+    icon: figshare
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/janicyrocha/
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - display:
-      header: false
-    link: https://figshare.com/authors/Janicy_Rocha/9212528
-    icon_pack: ai
-    icon: figshare
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
@@ -55,6 +55,10 @@ highlight_name: false
 Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO, onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
 
 Integrante o Núcleo de Acessibilidade da UNIRIO.
+
+Vice-coordenadora do Bacharelado Noturno em Biblioteconomia.
+
+Colaboradora dos seguintes grupos de pesquisa:
 
 <!--EndFragment-->
 
