@@ -1,13 +1,13 @@
 ---
-title: TRDI - produção e seleção de recursos educacionais para o ensino.
-date: "2016-04-27T00:00:00Z"
+title: TRDI - produção e seleção de recursos educacionais para o ensino
+date: 2016-04-27T00:00:00Z
 summary: Bolsista - Laura Moreira.
 tags:
   - Recuperação da Informação
   - Disseminação da Informação
   - Estratégia de busca
-  - Ensino 
-external_link: ""
+  - Ensino
+external_link: '""'
 image:
   caption: ""
   focal_point: Smart
