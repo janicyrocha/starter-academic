@@ -59,6 +59,11 @@ Integrante o Núcleo de Acessibilidade da UNIRIO.
 Vice-coordenadora do Bacharelado Noturno em Biblioteconomia.
 
 Colaboradora dos seguintes grupos de pesquisa:
+Estudos em Práticas Informacionais e Cultura - ECI/UFMG
+Gabinete de Estudos da Informação e do Imaginário - ECI/UFMG
+OpenAIDoc - UNIRIO
+Estudos sobre práticas inovadoras de ensino-aprendizagem em Biblioteconomia - UNIRIO
+Informação na Sociedade Contemporânea - UFRN
 
 <!--EndFragment-->
 
