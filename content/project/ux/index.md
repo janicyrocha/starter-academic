@@ -1,13 +1,14 @@
 ---
-title: Plataformas de acesso aberto a artefatos de pesquisa - elementos da experiência do usuário.
-date: "2016-04-27T00:00:00Z"
+title: Plataformas de acesso aberto a artefatos de pesquisa - elementos da
+  experiência do usuário
+date: 2016-04-27T00:00:00Z
 summary: 2019 - 2022.
 tags:
   - Experiência do usuário
   - Ciência aberta
   - e-Science
-  - Pesquisa 
-external_link: ""
+  - Pesquisa
+external_link: '""'
 image:
   caption: ""
   focal_point: Smart
