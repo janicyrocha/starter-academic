@@ -5,7 +5,8 @@ avatar_filename: avatar.png
 bio: ""
 interests:
   - Acessibilidade digital
-  - Aspectos sociais do uso da tecnologia
+  - Tecnologia e Sociedade
+  - Recuperação da Informação
   - Serviços de informação inclusivos e adaptáveis.
 social:
   - display:
@@ -54,7 +55,7 @@ highlight_name: false
 
 Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO, onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
 
-Integrante o Núcleo de Acessibilidade da UNIRIO.
+Integrante do Núcleo de Acessibilidade da UNIRIO.
 
 Vice-coordenadora do Bacharelado Noturno em Biblioteconomia.
 
