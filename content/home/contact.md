@@ -15,4 +15,6 @@ content:
       captcha: false
 design:
   columns: "2"
+  background:
+    color: "#d5effa"
 ---
