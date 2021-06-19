@@ -22,7 +22,7 @@ experience:
     date_end: 2018-01-31
 widget_id: Atuação profissional
 headless: true
-weight: 30
+weight: 20
 title: Experiência
 subtitle: null
 design:
