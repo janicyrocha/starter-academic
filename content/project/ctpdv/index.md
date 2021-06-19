@@ -1,14 +1,17 @@
 ---
 title: Centro de Tutoria Pedagógica - Deficiência Visual
-date: "2016-04-27T00:00:00Z"
-summary: Discentes envolvidos - Bruno Rocha; Ana Azevedo; João Peçanha; Sara Soares.
+date: 2016-04-27T00:00:00Z
+summary: |-
+  2020 - Atual
+
+  Discentes envolvidos - Bruno Rocha; Ana Azevedo; João Peçanha; Sara Soares.
 tags:
   - Acessibilidade
   - Anticapacitismo
   - Deficiência Visual
   - Inclusão
-  - Tutoria 
-external_link: ""
+  - Tutoria
+external_link: '""'
 image:
   caption: ""
   focal_point: Smart
