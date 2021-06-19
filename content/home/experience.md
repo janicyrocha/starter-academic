@@ -23,7 +23,7 @@ experience:
 widget_id: Atuação profissional
 headless: true
 weight: 20
-title: Experiência
+title: Atuação profissional
 subtitle: null
 design:
   columns: "2"
