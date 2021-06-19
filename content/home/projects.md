@@ -4,7 +4,7 @@ widget_id: '""'
 headless: true
 weight: 30
 title: Projetos
-subtitle: ""
+subtitle: 2020 - Atual
 content:
   page_type: project
   filter_default: 0
