@@ -30,9 +30,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/janicyrocha/
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
@@ -53,7 +50,9 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO, onde coordena o projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
+Professora adjunta do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
+
+Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
 
 Integrante do Núcleo de Acessibilidade da UNIRIO.
 
