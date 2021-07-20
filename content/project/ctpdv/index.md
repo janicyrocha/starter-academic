@@ -4,14 +4,14 @@ date: 2016-04-27T00:00:00Z
 summary: |-
   2020 - Atual
 
-  Discentes envolvidos - Bruno Rocha; Ana Azevedo; João Peçanha; Sara Soares.
+  Discentes envolvidos - Bruno Rocha; Ana Azevedo; João Peçanha; Renata Moraes, Sara Soares.
 tags:
   - Acessibilidade
   - Anticapacitismo
   - Deficiência Visual
   - Inclusão
   - Tutoria
-external_link: '""'
+external_link: ""
 image:
   caption: ""
   focal_point: Smart
