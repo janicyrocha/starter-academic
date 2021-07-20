@@ -1,8 +1,7 @@
 ---
 widget: portfolio
-widget_id: '""'
 headless: true
-weight: 30
+weight: 20
 title: Projetos
 subtitle: 2020 - Atual
 content:
