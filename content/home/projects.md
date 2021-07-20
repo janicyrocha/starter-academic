@@ -3,7 +3,6 @@ widget: portfolio
 headless: true
 weight: 40
 title: Projetos
-subtitle: 2020 - Atual
 content:
   page_type: project
   filter_default: 0
