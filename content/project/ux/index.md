@@ -8,7 +8,7 @@ tags:
   - Ciência aberta
   - e-Science
   - Pesquisa
-external_link: '""'
+external_link: ""
 image:
   caption: ""
   focal_point: Smart
