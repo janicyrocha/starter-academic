@@ -12,7 +12,7 @@ tags:
   - Disseminação da Informação
   - Estratégia de busca
   - Ensino
-external_link: '""'
+external_link: ""
 image:
   caption: ""
   focal_point: Smart
