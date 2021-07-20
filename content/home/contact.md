@@ -16,5 +16,5 @@ content:
 design:
   columns: "2"
   background:
-    color: "#d5effa"
+    color: "#ff0000"
 ---
