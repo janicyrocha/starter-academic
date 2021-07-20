@@ -7,24 +7,21 @@ main:
  # - name: Home
  #   url: '#about'
  #   weight: 10
-  - name: Ensino
+  - name: Disciplinas
     url: '#teach'
-    weight: 10
-  - name: Projetos
-    url: '#projects'
     weight: 20
-  - name: Apresentações
+  - name: Palestras
     url: '#talks'
     weight: 30
+  - name: Projetos
+    url: '#projects'
+    weight: 40
   - name: Publicações
     url: '#featured'
-    weight: 40
-  - name: Postagens
-    url: '#posts'
     weight: 50
   - name: Contato
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
