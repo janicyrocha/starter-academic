@@ -1,7 +1,9 @@
 ---
 title: Especificação para o repositório de tecnologia assistiva da UNIRIO
 date: 2021-07-21T12:38:39.558Z
-summary: Bolsista de Iniciação Científica - Eduardo Galeano da Silva
+summary: |-
+  2021 - 2022
+  Bolsista de Iniciação Científica - Eduardo Galeano da Silva
 tags:
   - Tecnologia Assistiva
   - Lei Brasileira de Inclusão
