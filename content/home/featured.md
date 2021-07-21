@@ -10,7 +10,7 @@ headless: true
 weight: 45
 
 title: Publicações
-{style="color: red"}
+{style="color: #ff0000"}
 
 content:
   # Page type to display. E.g. post, talk, publication...
