@@ -6,6 +6,8 @@ title: "Modelos de práticas informacionais"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Adriana Bogliolo Srihal Duarte
+- Claudio paixão Anastácio de Paula
 
 date: "2017-04-24"
 doi: "https://doi.org/10.19132/1808-5245231.36-61"
