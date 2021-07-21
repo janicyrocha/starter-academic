@@ -8,7 +8,7 @@ authors:
 - admin
 - Claudio Paixão A. de Paula
 
-date: "25/10/2019"
+date: "25-10-2019"
 doi: ""
 
 # Publication type.
