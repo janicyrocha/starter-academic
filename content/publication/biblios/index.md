@@ -1,5 +1,5 @@
 ---
-title: "Práticas informacionais - nova abordagem para os estudos de usuários da informação"
+title: "Práticas informacionais nova abordagem para os estudos de usuários da informação"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
