@@ -1,5 +1,5 @@
 ---
-title: Especificação para o repositório de tecnologia assistiva da UNIRIO
+title: Especificação para repositório de Tecnologia Assistiva
 date: 2021-07-21T12:38:39.558Z
 summary: |-
   2021 - 2022
