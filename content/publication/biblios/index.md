@@ -5,9 +5,9 @@ title: "Práticas informacionais nova abordagem para os estudos de usuários da 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Eliane Cristina de Freitas Rocha
 - Tatiane Krempser Gandra
+- admin
 
 date: "2017-03-24"
 doi: "http://doi.org/10.5195/biblios.2017.445"
