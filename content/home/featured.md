@@ -7,10 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 46
 
 title: Publicações
-{style="color: #ff0000"}
 
 content:
   # Page type to display. E.g. post, talk, publication...
