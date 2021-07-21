@@ -8,11 +8,11 @@ authors:
 - admin
 - Claudio Paixão A. de Paula
 
-date: "2019-21-10T00:00:00Z"
+date: "2019"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-21-10T00:00:00Z"
+publishDate: "2019"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
