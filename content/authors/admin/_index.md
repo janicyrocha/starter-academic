@@ -1,5 +1,5 @@
 ---
-title: **Janicy Rocha**
+title: Janicy Rocha
 role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
