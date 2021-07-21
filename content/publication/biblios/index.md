@@ -5,9 +5,9 @@ title: "Práticas informacionais nova abordagem para os estudos de usuários da 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- admin
 - Eliane Cristina de Freitas Rocha
 - Tatiane Krempser Gandra
-- admin
 
 date: "2017-03-24"
 doi: "http://doi.org/10.5195/biblios.2017.445"
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Biblios*
-publication_short: In *Biblios - Journal of Librarianship and Information Science*
+publication_short: In *Biblios Journal of Librarianship and Information Science*
 
 abstract: O estudo apresenta abordagens de pesquisa em práticas informacionais e suas implicações para o delineamento de estudos no âmbito do campo de usuários da informação. Revisão bibliográfica das bases conceituais das práticas sociais e informacionais e da produção de três grupos de pesquisa, finlandês, sueco e brasileiro, nesta abordagem. Todos os grupos de pesquisa apresentam as práticas informacionais como aquelas que vão além do estudo do comportamento informacional, mas que procuram escrutinar atividades relacionadas ao contato socialmente mediado com a informação (incluindo atividades comunicativas) e as práticas predominantemente relacionadas à informação em ambientes escolares, de pesquisa e do cotidiano, seja físico ou digital. Predominam, nos grupos europeus estudados, os referenciais teóricos derivados da teoria da prática de Schatzki, e no grupo brasileiro, abordagens etnometodológicas. Estudos de usuários pautados pela perspectiva das práticas informacionais não devem ser baseados em modelos de comportamento informacional, nem nas perspectivas objetivista e subjetivista. Diferentes abordagens teórico- metodológicas são demandadas pelo conceito de práticas informacionais e por seus diferentes entendimentos. Todavia, essa diversidade de entendimentos entre os três grupos pesquisados demonstra a potência da área: a complexidade da realidade social e o esforço constante dos pesquisadores para desvelar as diversas facetas dos fenômenos informacionais.
 
