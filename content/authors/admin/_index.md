@@ -2,7 +2,7 @@
 title: Janicy Rocha
 role: Professora Adjunta
 avatar_filename: avatar.png
-bio: ""
+bio: teste
 interests:
   - Acessibilidade digital
   - Tecnologia e Sociedade
