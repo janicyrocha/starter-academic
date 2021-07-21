@@ -1,5 +1,5 @@
 ---
-title: Janicy Rocha
+title: **Janicy Rocha**
 role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
@@ -50,7 +50,8 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-
+Red colored text
+{style="color: red"}
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
