@@ -11,7 +11,6 @@ weight: 46
 
 title: Publicações
 {style="color: red"}
-subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
