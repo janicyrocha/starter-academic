@@ -50,8 +50,7 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Red colored text
-{style="color: red"}
+> Quote.
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
