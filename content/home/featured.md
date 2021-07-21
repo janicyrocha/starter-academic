@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 46
+weight: 45
 
 title: Publicações
 {style="color: red"}
