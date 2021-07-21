@@ -3,6 +3,7 @@ title: Proposta de metodologia para seleção e classificação de Tecnologia As
 date: 2021-07-21T12:38:39.558Z
 summary: |-
   2021 - 2022
+  
   Bolsista de Iniciação Científica - Larissa dos Santos da Cunha Fernandes
 tags:
   - Tecnologia Assistiva
