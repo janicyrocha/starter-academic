@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: In *Biblios*
 publication_short: In *Biblios Journal of Librarianship and Information Science*
 
-abstract: .
+abstract: O estudo apresenta abordagens de pesquisa em práticas informacionais e suas implicações para o delineamento de estudos no âmbito do campo de usuários da informação. Revisão bibliográfica das bases conceituais das práticas sociais e informacionais e da produção de três grupos de pesquisa, finlandês, sueco e brasileiro, nesta abordagem. Todos os grupos de pesquisa apresentam as práticas informacionais como aquelas que vão além do estudo do comportamento informacional, mas que procuram escrutinar atividades relacionadas ao contato socialmente mediado com a informação (incluindo atividades comunicativas) e as práticas predominantemente relacionadas à informação em ambientes escolares, de pesquisa e do cotidiano, seja físico ou digital. Predominam, nos grupos europeus estudados, os referenciais teóricos derivados da teoria da prática de Schatzki, e no grupo brasileiro, abordagens etnometodológicas. Estudos de usuários pautados pela perspectiva das práticas informacionais não devem ser baseados em modelos de comportamento informacional, nem nas perspectivas objetivista e subjetivista. Diferentes abordagens teórico- metodológicas são demandadas pelo conceito de práticas informacionais e por seus diferentes entendimentos. Todavia, essa diversidade de entendimentos entre os três grupos pesquisados demonstra a potência da área - a complexidade da realidade social e o esforço constante dos pesquisadores para desvelar as diversas facetas dos fenômenos informacionais.
 
 # Summary. An optional shortened abstract.
 summary: ""
