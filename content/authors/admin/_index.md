@@ -2,7 +2,7 @@
 title: Janicy Rocha
 role: Professora Adjunta
 avatar_filename: avatar.png
-bio: teste
+bio: ""
 interests:
   - Acessibilidade digital
   - Tecnologia e Sociedade
@@ -50,9 +50,7 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-> Quote.
-
-Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
+> Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
 Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
 
