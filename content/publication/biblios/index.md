@@ -10,7 +10,7 @@ authors:
 - admin
 
 date: "2017-03-24"
-doi: "http://dx.doi.org/10.5195/biblios.2017.445"
+doi: "http://doi.org/10.5195/biblios.2017.445"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
