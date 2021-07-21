@@ -39,5 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
   background:
-   color: "#EFF0F0"
+   color: "#F7F7F7"
 ---
