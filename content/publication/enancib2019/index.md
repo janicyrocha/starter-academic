@@ -45,7 +45,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://doi.org/10.6084/m9.figshare.15029205.v1
+url_slides: https://figshare.com/articles/presentation/Pr_ticas_informacionais_no_fazer_cient_fico/15029205
 url_source: ''
 url_video: ''
 
