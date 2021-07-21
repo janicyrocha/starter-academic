@@ -7,7 +7,7 @@ title: "Práticas informacionais nova abordagem para os estudos de usuários da 
 authors:
 - Eliane Cristina de Freitas Rocha
 - Tatiane Krempser Gandra
-- admin
+- Janicy Rocha
 
 date: "2017-11-24"
 doi: "http://dx.doi.org/10.5195/biblios.2017.445"
