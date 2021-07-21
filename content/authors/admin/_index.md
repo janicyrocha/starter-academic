@@ -5,8 +5,11 @@ avatar_filename: avatar.png
 bio: ""
 interests:
   - Acessibilidade digital
+
   - Tecnologia e Sociedade
+
   - Recuperação da Informação
+
   - Serviços de informação inclusivos e adaptáveis.
 social:
   - display:
@@ -49,6 +52,7 @@ superuser: true
 highlight_name: false
 ---
 <!--StartFragment-->
+
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
