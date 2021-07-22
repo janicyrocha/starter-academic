@@ -4,11 +4,12 @@ role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
 interests:
+  icon :black_medium_small_square: Ammmmm
   - Acessibilidade digital
   - Tecnologia e Sociedade
   - Recuperação da Informação
   - Serviços de informação inclusivos e adaptáveis.
-  icon :black_medium_small_square: Ammmmm
+  
 social:
   - display:
       header: false
