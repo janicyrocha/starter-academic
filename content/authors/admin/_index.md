@@ -55,7 +55,6 @@ highlight_name: false
 <!--StartFragment-->
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
-{style="color: red"}
 
 Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
 
