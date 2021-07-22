@@ -6,7 +6,6 @@ event: V Fórum dos Cursos de Graduação e o V Encontro dos Cursos de Formaçã
 location: Evento on-line
 address:
   city: Rio de Janeiro
-  country: Brasil
 
 summary: Aborda o tema acessibilidade no ensino remoto, oferecendo recomendações para a inclusão de estudantes com deficiência visual nas aulas e Ambientes Virtuais de Aprendizagem.
 abstract: "Aborda o tema acessibilidade no ensino remoto, oferecendo recomendações para a inclusão de estudantes com deficiência visual nas aulas e Ambientes Virtuais de Aprendizagem."
@@ -25,8 +24,6 @@ image:
   caption: 'Image credit: [**Núcleo de Acessibilidade da UNIRIO**](http://www.unirio.br/acessibilidade/arquivos/palestras-sobre-acessibilidade-e-inclusao)'
   focal_point: Right
 
-url_code: ""
-url_pdf: ""
 url_slides: https://doi.org/10.6084/m9.figshare.12918827.v1
 url_video: https://youtu.be/fRbUUBOb9lI?t=259
 
