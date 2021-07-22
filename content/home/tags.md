@@ -22,5 +22,5 @@ design:
   font_size_min: 0.7
   font_size_max: 2.0
   background:
-  color: "#CFD1D2"
+    color: "#1A1B1C"
 ---
