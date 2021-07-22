@@ -112,7 +112,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: Janeiro 2006
+  date_format: 25-02-2006
   citation_style: abnt
 projects:
   post_view: 2
