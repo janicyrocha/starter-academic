@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 46
+weight: 45
 
-title: Publicações
+title: Publicações em destaque
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -31,7 +31,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
 {{% callout note %}}
 [Busque outras publicações aqui](./publication/).
