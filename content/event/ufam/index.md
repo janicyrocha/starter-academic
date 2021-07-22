@@ -1,14 +1,14 @@
 ---
 title: Documentos digitais acessíveis para pessoas com deficiência visual
 
-event: Webinar PcD visual na biblioteca: mobilidade e acessibilidade
+event: Webinar PcD visual na biblioteca - mobilidade e acessibilidade
 
 location: Evento on-line
 address:
   city: Manaus
 
-summary: Aborda o tema acessibilidade no ensino remoto, oferecendo recomendações para a inclusão de estudantes com deficiência visual nas aulas e Ambientes Virtuais de Aprendizagem.
-abstract: "Aborda o tema acessibilidade no ensino remoto, oferecendo recomendações para a inclusão de estudantes com deficiência visual nas aulas e Ambientes Virtuais de Aprendizagem."
+summary: Aborda a interface entre Tecnologia Assistiva e acessibilidade para pessoas com deficiência visual em documentos digitais.
+abstract: "Aborda a interface entre Tecnologia Assistiva e acessibilidade para pessoas com deficiência visual em documentos digitais."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
