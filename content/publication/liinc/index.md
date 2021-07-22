@@ -7,7 +7,7 @@ title: "Projeto Febre Amarela: ciclo de vida e tipologia de dados"
 authors:
 - admin
 
-date: "2019"
+year: "2019"
 doi: "https://doi.org/10.18617/liinc.v15i2.4775"
 
 # Publication type.
