@@ -7,7 +7,7 @@ title: "Projeto Febre Amarela: ciclo de vida e tipologia de dados"
 authors:
 - admin
 
-date: "2019-11-25"
+# date: "2019-11-25"
 doi: "https://doi.org/10.18617/liinc.v15i2.4775"
 
 # Publication type.
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Liinc em Revista*
-publication_short: In *Liinc em Revista*
+publication_short: In *Liinc em Revista, v. 15, n. 2, 2019. p. 161-176*
 
 abstract: Dados de pesquisa são insumos importantes para a produção de conhecimento. A gestão e a curadoria adequada dos mesmos são formas de se evitar as constantes perdas de dados relatadas na literatura. Assim, apresenta-se a modelagem dos ciclos de vida de dados de pesquisa e a tipificação desses como forma de orientar a promoção de boas práticas de gestão e curadoria. Partindo desses pressupostos, o ciclo de vida dos dados gerados pelo Projeto Febre Amarela – Fiocruz-Minas é modelado e os dados são tipificados. Adicionalmente, são apontadas fragilidades e possibilidades para a gestão dos dados de pesquisa do referido projeto.
 
