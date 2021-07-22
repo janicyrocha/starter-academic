@@ -40,5 +40,3 @@ design:
 {{% callout note %}}
 [Busque outras publicações aqui](./publication/).
 {{% /callout %}}
-
-{{< ref "publication/liinc/index.md" >}}
