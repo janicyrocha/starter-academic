@@ -8,7 +8,7 @@ interests:
   - Tecnologia e Sociedade
   - Recuperação da Informação
   - Serviços de informação inclusivos e adaptáveis.
-icon :black_medium_small_square: A
+  icon :black_medium_small_square: Ammmmm
 social:
   - display:
       header: false
