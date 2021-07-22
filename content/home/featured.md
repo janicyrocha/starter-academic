@@ -34,5 +34,5 @@ design:
   view: 3
 ---
 {{% callout note %}}
-[Busque outras publicações aqui**](./publication/).
+[Busque outras publicações aqui](./publication/).
 {{% /callout %}}
