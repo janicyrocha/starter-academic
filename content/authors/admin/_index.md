@@ -3,9 +3,8 @@ title: Janicy Rocha
 role: Professora Adjunta
 avatar_filename: avatar.png
 bio: ""
+
 interests:
-  - display:
-    icon :black_medium_small_square: Ammmmm
   - Acessibilidade digital
   - Tecnologia e Sociedade
   - Recuperação da Informação
@@ -33,9 +32,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/janicyrocha/
+
 organizations:
   - name: Universidade Federal do Estado do Rio de Janeiro
     url: http://www.unirio.br
+
 education:
   courses:
     - course: Doutora em Ciência da Informação
@@ -54,6 +55,7 @@ highlight_name: false
 <!--StartFragment-->
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
+{style="color: red"}
 
 Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
 
