@@ -8,7 +8,8 @@ main:
  #   url: '#about'
  #   weight: 10
   - name: Disciplinas
-    url: '#teach'
+    url: courses/
+    # url: '#teach'
     weight: 20
   - name: Palestras
     url: '#talks'
