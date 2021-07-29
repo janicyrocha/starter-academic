@@ -8,5 +8,3 @@ header:
   caption: ""
   image: ""
 ---
-
-**Disciplinas:**
