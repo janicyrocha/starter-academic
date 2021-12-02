@@ -1,5 +1,5 @@
 ---
-title: "Projeto Febre Amarela: ciclo de vida e tipologia de dados"
+title: "Práticas informacionais em diálogo em Ciências Sociais e Humanas"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,11 +18,7 @@ ISBN: "978-65-87264-55-4"
 # 7 = Thesis; 8 = Patent
 publication_types: ["5"]
 
-# Publication name and optional abbreviated publication name.
-# publication: In *Liinc em Revista*
-# publication_short: In *Liinc em Revista*, v. 15, n. 2, p. 161-176
-
-abstract: "A obra, composta por dezessete capítulos, convoca autores que têm se distinguido no estudo dos conceitos de usos, usuários e práticas de informação, referências na perspectiva epistemológica da revisão conceitual de teorias e modelos das Ciências Sociais e Humanas aplicados à leitura dos fenômenos informacionais. Porém a sua riqueza mais evidente consiste em reunir diferentes abordagens das práticas informacionais e sua rede conceitual, desde aquelas mais diretamente teóricas, as quais convocam autores e conceitos de outras disciplinas, até aquelas com foco mais diretamente direcionado para objetos concretos, além de abordagens das práticas da informação no universo digital."
+abstract: "A obra, composta por dezessete capítulos, convoca autores que têm se distinguido no estudo dos conceitos de usos, usuários e práticas de informação, referências na perspectiva epistemológica da revisão conceitual de teorias e modelos das Ciências Sociais e Humanas aplicados à leitura dos fenômenos informacionais. Porém, a sua riqueza mais evidente consiste em reunir diferentes abordagens das práticas informacionais e sua rede conceitual, desde aquelas mais diretamente teóricas, as quais convocam autores e conceitos de outras disciplinas, até aquelas com foco mais diretamente direcionado para objetos concretos, além de abordagens das práticas da informação no universo digital."
 # Summary. An optional shortened abstract.
 summary: ""
 
