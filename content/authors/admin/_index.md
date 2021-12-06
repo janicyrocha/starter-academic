@@ -56,6 +56,8 @@ highlight_name: false
 
 Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
+Docente colaboradora do programa de Pós-Graduação em Gestão de Documentos e Arquivos (PPGARQ-UNIRIO).
+
 Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
 
 Integrante do Núcleo de Acessibilidade da UNIRIO.
