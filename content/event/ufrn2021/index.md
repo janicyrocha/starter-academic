@@ -1,7 +1,7 @@
 ---
 title: (In)Acessibilidade em Bibliotecas
 
-event: Biblioteconomia: políticas públicas, inclusão e diversidade | Centenário Paulo Freire.
+event: Biblioteconomia - políticas públicas, inclusão e diversidade | Centenário Paulo Freire.
 
 location: Evento on-line
 address:
