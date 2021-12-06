@@ -13,7 +13,7 @@ abstract: "Apresenta recomendações para descrição textual de imagens baseada
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-15T15:20:00Z"
+date: "2021-09-15T15:20:00Z"
 
 authors: []
 tags: [Descrição de imagens. Acessibilidade. Deficiência Visual.]
