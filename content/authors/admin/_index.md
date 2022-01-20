@@ -6,12 +6,11 @@ bio: ""
 
 interests:
   - Acessibilidade digital
-  - Tecnologia e Sociedade
-  - Recuperação da Informação
-  - Padrões de Metadados
   - Interoperabilidade
+  - Padrões de Metadados
+  - Recuperação da Informação
   - Serviços de informação inclusivos
-  
+  - Tecnologia e Sociedade
 social:
   - display:
       header: false
