@@ -6,7 +6,7 @@ date: 2022-01-20T00:00:00.000Z
 summary: |-
   2021 - Atual
 
-  Bolsista - Catharina Goes.
+  Bolsista - Catharina Gois.
 tags:
   - Sistemas de Informação
   - Redes de Informação
