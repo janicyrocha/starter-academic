@@ -8,7 +8,9 @@ interests:
   - Acessibilidade digital
   - Tecnologia e Sociedade
   - Recuperação da Informação
-  - Serviços de informação inclusivos e adaptáveis.
+  - Padrões de Metadados
+  - Interoperabilidade
+  - Serviços de informação inclusivos
   
 social:
   - display:
