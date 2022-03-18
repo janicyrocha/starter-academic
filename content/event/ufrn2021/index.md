@@ -7,12 +7,13 @@ location: Evento on-line
 address:
   city: Natal - RN
 
-summary: Aborda as principais barreiras de acessibilidade encontradas em bibliotecas e oferece recomendações para eliminá-las.
+summary: Aborda as principais barreiras de acessibilidade encontradas em bibliotecas e oferece recomendações para eliminá-las..
 abstract: "Aborda as principais barreiras de acessibilidade encontradas em bibliotecas e oferece recomendações para eliminá-las."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "19-10-2021T15:30:00Z"
+date: "2021-10-19T15:30:00&#43;00:00"
+
 
 authors: []
 tags: [Acessibilidade. Bibliotecas. Inclusão. Anticapacitismo. Lei Brasileira de Inclusão.]
