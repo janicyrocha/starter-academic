@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Janicy Rocha # Website name
+title: Profa. Janicy Rocha # Website name
 baseurl: '' # Website URL
-copyright: '© Janicy Rocha - 2021' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 - 2022 | Janicy Rocha' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
