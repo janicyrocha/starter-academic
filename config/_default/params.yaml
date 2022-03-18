@@ -20,8 +20,8 @@ twitter: ''
 address:
   street: Avenida Pasteur, 458 - Urca
   city: Rio de Janeiro - RJ
-  postcode: '22290-255'
   country: Brasil
+  postcode: '22290-255'
   directions: CCH, Sala 413.
 # office_hours:
 #  - 'Monday 10:00 to 13:00'
