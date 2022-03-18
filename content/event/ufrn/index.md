@@ -12,7 +12,7 @@ abstract: "Aborda interfaces entre estudos de usuários da informação e acessi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-07-31T14:30:00Z"
+date: "2020-07-31"
 
 authors: []
 tags: [Acessibilidade. Estudos de usuários. Ciência da Informação. Biblioteconomia. Ambiente informacional digital.]
