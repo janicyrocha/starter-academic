@@ -11,8 +11,8 @@ summary: Aborda as principais barreiras de acessibilidade encontradas em bibliot
 abstract: "Aborda as principais barreiras de acessibilidade encontradas em bibliotecas e oferece recomendações para eliminá-las."
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-19T15:30:00Z"
+# End time can optionally be hidden by prefixing the line with `#`.
+# date: "2021-10-19T15:30:00Z"
 
 
 authors: []
