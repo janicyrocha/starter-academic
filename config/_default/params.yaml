@@ -46,7 +46,6 @@ time_format: '15:04'
 address_format: pt-br
 
 # Site features
-
 highlight: true
 highlight_languages:
   - r
@@ -62,12 +61,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+  post: false
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -84,7 +83,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  # date_format: 31-01-2021
+  date_format: 31-01-2021
   citation_style: abnt
 projects:
   post_view: 2
