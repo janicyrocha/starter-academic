@@ -84,7 +84,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: 31-01-2021
+  #date_format: 31-01-2021
   citation_style: abnt
 projects:
   post_view: 2
