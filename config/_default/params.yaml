@@ -18,7 +18,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 address:
-  street: Avenida Pasteur, 458 - Urca.
+  street: Avenida Pasteur, 458 - Urca
   city: Rio de Janeiro - RJ
   postcode: '22290-255'
   country: Brasil
@@ -41,7 +41,7 @@ address:
   highlight_active_link: true
 
 # Localization
-date_format: '25 Jan 2006'
+date_format: '31-01-2006'
 time_format: '15:04'
 address_format: pt-br
 
