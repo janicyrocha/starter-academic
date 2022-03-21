@@ -12,7 +12,7 @@ abstract: "Aborda possibilidades para o compartilhamento da informação e do co
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "30-03-2021T19:00:00Z"
+date: 2021-03-30T19:00:00Z
 
 authors: []
 tags: [Sociedade inclusiva. Acessibilidade. Pandemia. Compartilhamento da informação. Compartilhamento do conhecimento. Pessoas com deficiência. Anticapacitismo.]
