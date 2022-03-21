@@ -1,5 +1,5 @@
 ---
-title: Estudos de usuários e acessibilidade em ambientes informacionais digitais.
+title: Estudos de usuários e acessibilidade em ambientes informacionais digitais
 
 event: Estudo de Usuários e práticas informacionais na Ciência da Informação
 
