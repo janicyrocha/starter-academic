@@ -16,7 +16,7 @@ ISBN: "978-65-993126-2-5"
 # 7 = Thesis; 8 = Patent
 publication_types: ["6"]
 
-publication: In SANTA ANNA, J.; COSTA, M. E. de O. da; DANTAS, S. de C. A. (Org.). *Acessibilidade em bibliotecas - ações inclusivas.* Belo Horizonte: ABMG Editora, p. 56-70
+publication: In SANTA ANNA, J.; COSTA, M. E. de O. da; DANTAS, S. de C. A. (Org.). *Acessibilidade em bibliotecas - ações inclusivas.* Belo Horizonte - ABMG Editora, p. 56-70
 
 abstract: "Com o intuito de contribuir para fomentar as discussões e iniciativas que visem a tornar as bibliotecas cada vez mais acessíveis para as pessoas com deficiência, o capítulo tem como objetivo discutir três tipos de barreiras que ainda permeiam esses espaços – barreiras nas comunicações e na informação, barreiras atitudinais e barreiras tecnológicas – e apresentar recomendações para que elas sejam eliminadas."
 
