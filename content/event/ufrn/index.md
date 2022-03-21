@@ -5,14 +5,14 @@ event: Estudo de Usuários e práticas informacionais na Ciência da Informaçã
 
 location: Evento on-line
 address:
-  city: Natal - RN.
+  city: Natal - RN
 
-summary: Aborda interfaces entre estudos de usuários da informação e acessibilidade digital..
+summary: Aborda interfaces entre estudos de usuários da informação e acessibilidade digital.
 abstract: "Aborda interfaces entre estudos de usuários da informação e acessibilidade digital."
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "31-07-2021T15:30:00Z"
+# End time can optionally be hidden by prefixing the line with `#`.
+# date: "31-07-2021T15:30:00Z"
 
 authors: []
 tags: [Acessibilidade. Estudos de usuários. Ciência da Informação. Biblioteconomia. Ambiente informacional digital.]
