@@ -19,12 +19,12 @@ publication_short: In *SANTA ANNA, J.; COSTA, M. E. de O. da; DANTAS, S. de C. A
 
 abstract: Com o intuito de contribuir para fomentar as discussões e iniciativas que visem a tornar as bibliotecas cada vez mais acessíveis para as pessoas com
 deficiência, o capítulo tem como objetivo discutir três tipos de barreiras que ainda permeiam esses espaços – barreiras nas comunicações e na informação,
-barreiras atitudinais e barreiras tecnológicas – e apresentar recomendações para que elas sejam eliminadas..
+barreiras atitudinais e barreiras tecnológicas – e apresentar recomendações para que elas sejam eliminadas.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Acessibilidade. Estudos de usuários. Bibliotecas. Lei Brasileira de Inclusão.]
+tags: Acessibilidade. Estudos de usuários. Bibliotecas. Lei Brasileira de Inclusão.
 
 # Display this page in the Featured widget?
 featured: false
