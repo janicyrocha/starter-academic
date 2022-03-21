@@ -1,7 +1,7 @@
 ---
 title: Janicy Rocha
 role: Professora Adjunta
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 
 interests:
