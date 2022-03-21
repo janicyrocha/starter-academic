@@ -1,5 +1,5 @@
 ---
-title: Estudos de usuários e acessibilidade em ambientes informacionais digitais
+title: Estudos de usuários e acessibilidade em ambientes informacionais digitais.
 
 event: Estudo de Usuários e práticas informacionais na Ciência da Informação
 
@@ -12,7 +12,7 @@ abstract: "Aborda interfaces entre estudos de usuários da informação e acessi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "19-10-2021"
+date: "19-10-2021T15:30:00"
 
 authors: []
 tags: [Acessibilidade. Estudos de usuários. Ciência da Informação. Biblioteconomia. Ambiente informacional digital.]
