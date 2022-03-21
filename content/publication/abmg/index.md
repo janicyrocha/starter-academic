@@ -18,20 +18,17 @@ publication_types: ["6"]
 
 abstract: "Com o intuito de contribuir para fomentar as discussões e iniciativas que visem a tornar as bibliotecas cada vez mais acessíveis para as pessoas com deficiência, o capítulo tem como objetivo discutir três tipos de barreiras que ainda permeiam esses espaços – barreiras nas comunicações e na informação, barreiras atitudinais e barreiras tecnológicas – e apresentar recomendações para que elas sejam eliminadas."
 
-# Summary. An optional shortened abstract.
-summary: ""
-
-tags: [Práticas Informacionais. Ciência da Informação. Ciências Sociais. Ciências Humanas.]
+tags: [Acessibilidade. Estudos de usuários. Bibliotecas. Lei Brasileira de Inclusão.]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://3b2d7e5d-8b9a-4847-aa3e-40931d588fb7.filesusr.com/ugd/c3c80a_e73ca42d9ca141ffa4298e33400abffc.pdf
+url_pdf: http://abmg.org.br/wp-content/uploads/2022/01/LIVRO-Acessibilidadem-bibliotecas.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
