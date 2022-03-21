@@ -12,7 +12,7 @@ abstract: "Aborda a interface entre Tecnologia Assistiva e acessibilidade para p
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-29T14:30:00Z"
+date: "10-29-2020T14:30:00Z"
 
 authors: []
 tags: [Acessibilidade. Deficiência visual. Arquivos digitais. Lei Brasileira de Acesso à Informação. Tecnologia Assistiva.]
