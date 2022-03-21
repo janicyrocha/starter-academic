@@ -59,9 +59,11 @@ Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
 Docente colaboradora do programa de Pós-Graduação em Gestão de Documentos e Arquivos (PPGARQ-UNIRIO).
 
-Coordenadora do Centro de Tutoria Pedagógica - Deficiência Visual.
+Líder do grupo de pesquisa "Observatório de Tendências- Interoperabilidade e Metadados para Organização do Conhecimento".
 
-Integrante do Núcleo de Acessibilidade da UNIRIO.
+Coordenadora do projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
+
+Integrante do Núcleo de Acessibilidade e Inclusão da UNIRIO.
 
 Vice-coordenadora do Bacharelado Noturno em Biblioteconomia.
 
