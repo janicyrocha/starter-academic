@@ -14,9 +14,10 @@ ISBN: "978-65-993126-2-5"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["6"]
 
-abstract: "A obra, composta por dezessete capítulos, convoca autores que têm se distinguido no estudo dos conceitos de usos, usuários e práticas de informação, referências na perspectiva epistemológica da revisão conceitual de teorias e modelos das Ciências Sociais e Humanas aplicados à leitura dos fenômenos informacionais. Porém, a sua riqueza mais evidente consiste em reunir diferentes abordagens das práticas informacionais e sua rede conceitual, desde aquelas mais diretamente teóricas, as quais convocam autores e conceitos de outras disciplinas, até aquelas com foco mais diretamente direcionado para objetos concretos, além de abordagens das práticas da informação no universo digital."
+abstract: "Com o intuito de contribuir para fomentar as discussões e iniciativas que visem a tornar as bibliotecas cada vez mais acessíveis para as pessoas com deficiência, o capítulo tem como objetivo discutir três tipos de barreiras que ainda permeiam esses espaços – barreiras nas comunicações e na informação, barreiras atitudinais e barreiras tecnológicas – e apresentar recomendações para que elas sejam eliminadas."
+
 # Summary. An optional shortened abstract.
 summary: ""
 
