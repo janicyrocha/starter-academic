@@ -30,7 +30,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://drive.google.com/file/d/1DCFW56_ZKZbuzJQ01_ijTWzfpu8htJrk/view?usp=sharing
+url_pdf: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/12520437-8c90-4cbd-9aa6-e6cf2f005f1a/E-book_Observatorio_Fluminense_de_Politicas_Publicas_(02-08-21).pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220321T221913Z&X-Amz-Expires=86400&X-Amz-Signature=a93d183ea3b25b7f934ab16161cc7692cf411636aed9ef7dbcbeb2b996e4dae7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22E-book%2520Observato%25CC%2581rio%2520Fluminense%2520de%2520Poli%25CC%2581ticas%2520Pu%25CC%2581blicas%2520%2802-08-21%29.pdf%22&x-id=GetObject
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
