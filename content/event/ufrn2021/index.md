@@ -12,7 +12,7 @@ abstract: "Aborda as principais barreiras de acessibilidade encontradas em bibli
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: 19-10-2021T15:30:00Z
+date: 2021-10-19T15:30:00Z
 
 authors: []
 tags: [Acessibilidade. Bibliotecas. Inclusão. Anticapacitismo. Lei Brasileira de Inclusão.]
