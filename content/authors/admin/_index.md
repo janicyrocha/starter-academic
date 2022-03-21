@@ -59,7 +59,7 @@ Professora do Departamento de Processos Técnico-Documentais (DPTD) da UNIRIO.
 
 Docente colaboradora do programa de Pós-Graduação em Gestão de Documentos e Arquivos (PPGARQ-UNIRIO).
 
-Líder do grupo de pesquisa "Observatório de Tendências- Interoperabilidade e Metadados para Organização do Conhecimento".
+Líder do grupo de pesquisa "Observatório de Tendências - Interoperabilidade e Metadados para Organização do Conhecimento".
 
 Coordenadora do projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
 
