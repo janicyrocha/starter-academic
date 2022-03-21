@@ -29,7 +29,6 @@ address:
 # appointment_url: 'https://calendar.google.com/calendar'
 # 'https://calendly.com'
 
-
 # Site header
   main_menu:
   enable: true
@@ -41,7 +40,7 @@ address:
   highlight_active_link: true
 
 # Localization
-date_format: '31/01/2021'
+date_format: '31-01-2021'
 time_format: '15:04'
 address_format: pt-br
 
@@ -83,7 +82,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: '31/01/2021'
+  date_format: '31-01-2021'
   citation_style: abnt
 projects:
   post_view: 2
