@@ -30,7 +30,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 
+url_pdf: https://drive.google.com/file/d/1DCFW56_ZKZbuzJQ01_ijTWzfpu8htJrk/view?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
