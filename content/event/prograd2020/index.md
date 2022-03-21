@@ -12,7 +12,7 @@ abstract: "Aborda o tema acessibilidade no ensino remoto, oferecendo recomendaç
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-03T17:00:00Z"
+date: "03-09-2020T17:00:00Z"
 
 authors: []
 tags: [Ensino remoto. Acessibilidade. Deficiência Visual.]
