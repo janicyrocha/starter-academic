@@ -16,8 +16,7 @@ ISBN: "978-65-86052-36-7"
 # 7 = Thesis; 8 = Patent
 publication_types: ["6"]
 
-publication: In Universidade Federal do Estado do Rio de Janeiro; Instituto Brasil Social (Org.). *Observatório Fluminense de políticas públicas em defesa da pessoa
-com deficiência - trajetórias de pesquisas.* Rio de Janeiro - Gramma Livraria e Editora, p. 115-124
+publication: In Universidade Federal do Estado do Rio de Janeiro; Instituto Brasil Social (Org.). *Observatório Fluminense de políticas públicas em defesa da pessoa com deficiência - trajetórias de pesquisas.* Rio de Janeiro - Gramma Livraria e Editora, p. 115-124
 
 abstract: "No capítulo são apresentadas possibilidades de descrição de imagens, por meio dos textos alternativos, visando tornar as publicações no Facebook e Instagram mais acessíveis para usuários de leitores de tela, muitos deles, pessoas cegas."
 
