@@ -18,7 +18,10 @@ publication: In *IX Simpósio de Fatores Humanos em Sistemas Computacionais (IHC
 
 # abstract:
 
-tags: Acessibilidade. Usabilidade. Deficiência Visual.
+tags: 
+  - Acessibilidade
+  - Usabilidade
+  - Deficiência Visual
 
 # Display this page in the Featured widget?
 featured: false
