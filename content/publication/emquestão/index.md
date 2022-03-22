@@ -27,7 +27,12 @@ abstract: O trabalho apresenta e discute três modelos de práticas informaciona
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Práticas informacionais. Comportamento informacional. Modelos. Busca de informação. Vida cotidiana.]
+tags: 
+  - Busca de Informação
+  - Comportamento Informacional
+  - Modelos
+  - Práticas Informacionais
+  - Usos e Usuários da Informação
 
 # Display this page in the Featured widget?
 featured: true
