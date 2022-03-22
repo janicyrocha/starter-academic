@@ -27,7 +27,12 @@ abstract: O estudo apresenta abordagens de pesquisa em práticas informacionais 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Comportamento informacional. Estudos de usuários. Etnometodologia. Metodologia. Práticas informacionais.]
+tags:
+  - Comportamento informacional
+  - Etnometodologia
+  - Metodologia
+  - Práticas informacionais
+  - Usos e Usuários da Informação
 
 # Display this page in the Featured widget?
 featured: true
