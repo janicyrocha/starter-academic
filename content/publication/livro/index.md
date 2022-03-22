@@ -22,7 +22,11 @@ abstract: "A obra, composta por dezessete capítulos, convoca autores que têm s
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Práticas Informacionais. Ciência da Informação. Ciências Sociais. Ciências Humanas.]
+tags: 
+  - Ciências Humanas
+  - Ciência da Informação
+  - Ciências Sociais
+  - Práticas Informacionais
 
 # Display this page in the Featured widget?
 featured: true
