@@ -17,7 +17,9 @@ publication: In *XIV Encontro Nacional de Pesquisa em Ciência da Informação (
 
 # abstract:
 
-tags: Cognição Distribuída. Tomada de decisão.
+tags: 
+ - Cognição Distribuída
+ - Tomada de Decisão
 
 # Display this page in the Featured widget?
 featured: false
