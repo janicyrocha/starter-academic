@@ -20,7 +20,10 @@ publication: In Universidade Federal do Estado do Rio de Janeiro; Instituto Bras
 
 abstract: "No capítulo são apresentadas possibilidades de descrição de imagens, por meio dos textos alternativos, visando tornar as publicações no Facebook e Instagram mais acessíveis para usuários de leitores de tela, muitos deles, pessoas cegas."
 
-tags: [Usuários da informação. Acessibilidade. Descrição de imagens.]
+tags:
+  - Acessibilidade
+  - Descrição de imagens
+  - Usos e Usuários da informação
 
 # Display this page in the Featured widget?
 featured: false
