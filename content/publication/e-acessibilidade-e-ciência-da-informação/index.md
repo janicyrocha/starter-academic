@@ -22,8 +22,10 @@ publication: In SILVEIRA, J. G. da (Org.). *Acessibilidade e cidadania - teorias
 
 # abstract: ""
 
-tags: [Acessibilidade. Estudos de usuários.]
-
+tags: 
+  - Acessibilidade
+  - Usos e Usuários da Informação
+ 
 # Display this page in the Featured widget?
 featured: false
 
