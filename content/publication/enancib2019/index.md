@@ -22,7 +22,12 @@ abstract: A produção do conhecimento científico em grupos e projetos de pesqu
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Práticas informacionais. Comportamento Informacional. Estudo de Usuários. Conhecimento científico.]
+# tags: [Práticas informacionais. Comportamento Informacional. Estudo de Usuários. Conhecimento científico.]
+tags:
+  - Práticas informacionais
+  - Comportamento Informacional
+  - Usos e Usuários da Informação
+  - Conhecimento científico
 
 # Display this page in the Featured widget?
 featured: true
