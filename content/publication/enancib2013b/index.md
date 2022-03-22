@@ -2,7 +2,7 @@
 title: "A Cognição Distribuída como suporte teórico para estudos sobre o uso da informação e do conhecimento durante a tomada de decisão em ambientes complexos"
 
 authors:
-- admin
+- ROCHA, Janicy A. Pereira
 
 date: "2013-10-29"
 
