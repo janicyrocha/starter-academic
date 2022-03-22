@@ -20,7 +20,11 @@ publication: In ARAÚJO, C. A. A. (Org.). *Estudos em Práticas Informacionais e
 
 abstract: "No capítulo são compilados resultados de duas pesquisas conduzidas durante mestrado e doutorado da autora, integrante do grupo de pesquisa Estudos em Práticas Informacionais e Cultura (EPIC). Ambas as pesquisas foram defendidas no Programa de Pós-Graduação em Ciência da Informação da Universidade Federal de Minas Gerais (PPGCI/UFMG). Como ponto comum, as pesquisas adotam vertentes cognitivas contemporâneas como referenciais teóricos para estudar os sujeitos em suas interações com a informação. A influência das Ciências Cognitivas se faz presente na história da Ciência da Informação por meio de diferentes enfoques. De forma geral, observa-se que o principal ponto de interseção entre ambas está em compreender os processos cognitivos sujeitos informacionais e como estes, em suas práticas informacionais, manipulam a informação e se apropriam do conhecimento."
 
-tags: [Práticas Informacionais. Estudos de usuários. Cognição Situada. Cognição Distribuída.]
+tags: 
+  - Cognição Situada
+  - Cognição Distribuída
+  - Práticas Informacionais
+  - Usos e Usuários da Informação
 
 # Display this page in the Featured widget?
 featured: false
