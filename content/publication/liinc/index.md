@@ -25,7 +25,10 @@ abstract: Dados de pesquisa são insumos importantes para a produção de conhec
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Dados de Pesquisa. Ciclo de Vida dos Dados de Pesquisa. Gestão dos Dados de Pesquisa.]
+tags: 
+  - Dados de Pesquisa
+  - Ciclo de Vida dos Dados de Pesquisa
+  - Gestão dos Dados de Pesquisa
 
 # Display this page in the Featured widget?
 featured: true
