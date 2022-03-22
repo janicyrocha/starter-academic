@@ -2,8 +2,8 @@
 title: "(In)Acessibilidade na web para pessoas com deficiência visual: um estudo de usuários à luz da Cognição Situada"
 
 authors:
-- admin
-- Adriana Bogliolo Sirihal Duarte
+- ROCHA, Janicy A. Pereira
+- SIRIHAL DUARTE, Adriana Bogliolo
 
 date: "2013-10-29"
 
