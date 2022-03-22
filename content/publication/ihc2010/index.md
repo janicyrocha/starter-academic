@@ -5,7 +5,7 @@ authors:
 - admin
 - Tiago França Melo de Lima
 
-date: "2010"
+date: "2010-10-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,6 +37,4 @@ image:
 
 # projects:
 # - example
-
 ---
-
