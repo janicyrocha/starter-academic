@@ -18,7 +18,11 @@ publication: In *XIV Encontro Nacional de Pesquisa em Ciência da Informação (
 
 abstract: "Apresenta resultados parciais de uma dissertação já concluída, cujo objetivo foi realizar um estudo com usuários com cegueira, pautado pela abordagem social, para compreender como eles interagem com a Web e como percebem sua (in)acessibilidade. A Cognição Situada foi adotada como suporte teórico, pois se baseia na noção de que as ações dos usuários são adaptadas à situação e ao contexto, sofrendo influência das suas diversas dimensões. Os resultados mostram que a percepção que os participantes têm da (in)acessibilidade é influenciada por vários elementos: agentes de usuário, público alvo dos websites, problemas de usabilidade, violação das recomendações de acessibilidade e conhecimento e experiência de uso tanto da Internet/Web, quanto dos agentes de usuário. Já em relação aos elementos que influenciam o comportamento e as ações dos usuários durante o acesso mediado por leitores de tela, destacam-se: o ambiente físico e o digital, os recursos e programas adicionais que usam, a flexibilidade e improviso baseados em experiências anteriores, as necessidades e as motivações para acesso e uso e as lembranças visuais e conceitos que possuem. Foi possível perceber que emoções positivas são despertadas diante da acessibilidade e emoções negativas surgem diante da inacessibilidade. Além disso, comprovou-se a importância de se conhecer as especificidades e demandas dos usuários com deficiência visual para que os websites se tornem cada vez mais acessíveis e inclusivos."
 
-tags: Cognição Situada. Acessibilidade. Estudo de Usuários. Deficiência Visual.
+tags: 
+  - Acessibilidade
+  - Cognição Situada
+  - Deficiência Visual
+  - Usos e Usuários da Informação
 
 # Display this page in the Featured widget?
 featured: false
