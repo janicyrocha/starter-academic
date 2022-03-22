@@ -2,7 +2,7 @@
 title: Análise da relação entre acessibilidade web e usabilidade para pessoas
   com deficiência visual
 publication_types:
-  - "0"
+  - "1"
 draft: false
 featured: false
 image:
