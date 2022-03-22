@@ -2,8 +2,8 @@
 title: "Análise da relação entre acessibilidade web e usabilidade para pessoas com deficiência visual"
 
 authors:
-- admin
-- Tiago França Melo de Lima
+- ROCHA, Janicy A. Pereira
+- LIMA, Tiago França Melo de
 
 date: "2010-10-08"
 
