@@ -18,7 +18,11 @@ publication: In *XXVI Congresso Brasileiro de Biblioteconomia, Documentação e 
 
 # abstract:
 
-tags: Ensino. Biblioteconomia. Arquitetura de Informação.
+tags:
+  - Arquitetura de Informação
+  - Biblioteconomia
+  - Ensino
+  - Usos e Usuários da Informação
 
 # Display this page in the Featured widget?
 featured: false
