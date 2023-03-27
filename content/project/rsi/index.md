@@ -4,7 +4,7 @@ title: RSI - teoria e prática
 subtitle: ""
 date: 2022-01-20T00:00:00.000Z
 summary: |-
-  2021 - Atual
+  2021
 
   Bolsista - Catharina Gois.
 tags:
