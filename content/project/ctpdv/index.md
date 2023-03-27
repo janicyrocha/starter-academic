@@ -2,9 +2,9 @@
 title: Centro de Tutoria Pedagógica - Deficiência Visual
 date: 2016-04-27T00:00:00Z
 summary: |-
-  2020 - Atual
+  2020 - 2022
 
-  Discentes envolvidos - Bruno Rocha; Ana Azevedo; João Peçanha; Renata Moraes, Sara Soares.
+  Discentes envolvidos - Ana Azevedo; Bruno Rocha; Cleycianne Henriques; João Peçanha; Luiza Schoo; Maria Clara Moreira; Milena Milhão; Renata Moraes, Sara Soares.
 tags:
   - Acessibilidade
   - Anticapacitismo
