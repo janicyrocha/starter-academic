@@ -61,11 +61,7 @@ Docente colaboradora do programa de Pós-Graduação em Gestão de Documentos e 
 
 Líder do grupo de pesquisa "Observatório de Tendências - Interoperabilidade e Metadados para Organização do Conhecimento".
 
-Coordenadora do projeto "Centro de Tutoria Pedagógica - Deficiência Visual".
-
 Integrante do Núcleo de Acessibilidade e Inclusão da UNIRIO.
-
-Vice-coordenadora do Bacharelado Noturno em Biblioteconomia.
 
 <!--EndFragment-->
 
