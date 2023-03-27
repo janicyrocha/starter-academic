@@ -4,7 +4,7 @@ title: TRDI - produção e seleção de recursos educacionais para o ensino
 subtitle: ""
 date: 2016-04-27T00:00:00.000Z
 summary: |-
-  2020 - Atual
+  2020 - 2021
 
   Bolsista - Laura Moreira.
 tags:
